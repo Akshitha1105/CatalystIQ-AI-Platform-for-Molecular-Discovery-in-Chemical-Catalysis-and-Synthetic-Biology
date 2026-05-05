@@ -53,20 +53,30 @@ Faster iteration. Better candidates. Continuous learning.
 
 ## 🏗️ Architecture
 +-----------------------------------------------------------+
-| CatalystIQ |
-+----------------------+------------------------------------+
-| User Interface | Backend Engine |
-| (UI Layer) | FastAPI / Python |
-| | Data Processing |
-+----------------------+------------------------------------+
-| AI / ML Layer |
-| Molecular GNN · Feature Extraction · Ranking Model |
+|                        CatalystIQ                         |
 +-----------------------------------------------------------+
-| Data & Knowledge Layer |
-| Materials Project · OCP · BRENDA · Local Storage |
+| Interface Layer                                           |
+|   - UI (Frontend)                                         |
 +-----------------------------------------------------------+
-| Learning & Feedback Loop |
-| Experimental Results → Retraining → Model Update |
+| Backend Engine                                            |
+|   - FastAPI / Python                                      |
+|   - Data Processing                                       |
++-----------------------------------------------------------+
+| AI / ML Layer                                             |
+|   - Molecular GNN                                         |
+|   - Feature Extraction                                    |
+|   - Ranking Model                                         |
++-----------------------------------------------------------+
+| Data & Knowledge Layer                                    |
+|   - Materials Project                                     |
+|   - Open Catalyst Project                                 |
+|   - BRENDA                                                |
+|   - Local Storage                                         |
++-----------------------------------------------------------+
+| Learning & Feedback Loop                                  |
+|   - Experimental Results                                  |
+|   - Retraining Pipeline                                   |
+|   - Model Updates                                         |
 +-----------------------------------------------------------+
 ## ⚡ Key Features
 Feature	Description
