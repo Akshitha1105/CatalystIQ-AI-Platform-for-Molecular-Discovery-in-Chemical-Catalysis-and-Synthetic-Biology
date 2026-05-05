@@ -5,12 +5,14 @@ AI Platform for Molecular Discovery in Chemical Catalysis & Synthetic Biology
 Turning 6–8 week discovery cycles into hours — and making every experiment smarter than the last.
 
 🏆 Hackathon
-Field	                    Details
-Event	                    AI for Bharat 2026 — HackerEarth
-Theme	                    Theme 4: AI Platform for Molecular Discovery in Chemical Catalysis and Synthetic Biology
-Stage	                    🚧 Prototype Round
-Team	                    (Add your team name)
-Demo	                    (Add your demo link)
+| Field | Details |
+|-------|--------|
+| **Event** | AI for Bharat 2026 — HackerEarth |
+| **Theme** | Theme 4: AI Platform for Molecular Discovery in Chemical Catalysis and Synthetic Biology |
+| **Stage** | 🚧 Prototype Round |
+| **Team** | *(Add your team name)* |
+| **Demo** | *(Add your demo link)* |
+
 ## 🎯 The Problem
 
 Catalyst and enzyme discovery today is fundamentally inefficient.
@@ -51,20 +53,20 @@ Faster iteration. Better candidates. Continuous learning.
 
 ## 🏗️ Architecture
 +-----------------------------------------------------------+
-|                        CatalystIQ                         |
+| CatalystIQ |
 +----------------------+------------------------------------+
-|   User Interface     |   Backend Engine                    |
-|   (UI Layer)         |   FastAPI / Python                  |
-|                      |   Data Processing                   |
+| User Interface | Backend Engine |
+| (UI Layer) | FastAPI / Python |
+| | Data Processing |
 +----------------------+------------------------------------+
-|                    AI / ML Layer                          |
-|   Molecular GNN · Feature Extraction · Ranking Model      |
+| AI / ML Layer |
+| Molecular GNN · Feature Extraction · Ranking Model |
 +-----------------------------------------------------------+
-|                 Data & Knowledge Layer                    |
-|   Materials Project · OCP · BRENDA · Local Storage        |
+| Data & Knowledge Layer |
+| Materials Project · OCP · BRENDA · Local Storage |
 +-----------------------------------------------------------+
-|                 Learning & Feedback Loop                  |
-|   Experimental Results → Retraining → Model Update        |
+| Learning & Feedback Loop |
+| Experimental Results → Retraining → Model Update |
 +-----------------------------------------------------------+
 ## ⚡ Key Features
 Feature	Description
