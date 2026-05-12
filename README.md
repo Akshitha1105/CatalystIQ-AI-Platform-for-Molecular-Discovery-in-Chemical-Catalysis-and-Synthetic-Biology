@@ -10,7 +10,7 @@ Turning 6–8 week discovery cycles into hours — and making every experiment s
 | **Event** | AI for Bharat 2026 — HackerEarth |
 | **Theme** | Theme 4: AI Platform for Molecular Discovery in Chemical Catalysis and Synthetic Biology |
 | **Stage** | 🚧 Prototype Round |
-| **Team** | *(Add your team name)* |
+| **Team** | *Trust_The_Process* |
 | **Demo** | *(Add your demo link)* |
 
 ## 🎯 The Problem
