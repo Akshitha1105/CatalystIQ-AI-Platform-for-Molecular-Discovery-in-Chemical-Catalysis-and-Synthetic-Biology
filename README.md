@@ -11,7 +11,7 @@ Turning 6–8 week discovery cycles into hours — and making every experiment s
 | **Theme** | Theme 4: AI Platform for Molecular Discovery in Chemical Catalysis and Synthetic Biology |
 | **Stage** | 🚧 Prototype Round |
 | **Team** | *Trust_The_Process* |
-| **Demo** | *(Add your demo link)* |
+| **Demo** | *https://catalystiq.streamlit.app/* |
 
 ## 🎯 The Problem
 
